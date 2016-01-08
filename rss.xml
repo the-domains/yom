@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[YOM]]></title>
         <description><![CDATA[YOM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 22:28:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 22:30:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[You decide]]></title>
-            <description><![CDATA[<article><h1>You decide</h1><p>Your Own Medicine (YOM) is a web-based portal for designing your own healthcare sessions.  You choose the location, people and treatments of your liking with doctors' guidance.</p></article>]]></description>
-            <link>undefinedyou-decide/index.html</link>
+            <description><![CDATA[<article><h1>You decide</h1><p>Your Own Medicine (YOM) is a web-based portal for designing your own healthcare sessions.  You choose the location, people and treatments of your liking with doctors' guidance.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f59254d-fcce-4d09-a70e-f77b73bf5361.jpg"></article>]]></description>
+            <link>https://thegrid.ai/yom/you-decide/index.html</link>
             <guid isPermaLink="false">4046c82f-1736-435e-9da8-dfbb7f36967d</guid>
-            <pubDate>Fri, 08 Jan 2016 22:28:07 GMT</pubDate>
+            <pubDate>Fri, 08 Jan 2016 22:30:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
